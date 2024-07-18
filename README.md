@@ -1,4 +1,4 @@
-# Fortnite AutoHotkey Script for XP Accumulation
+# LEGO Fortnite AutoHotkey Script for XP Accumulation
 
 ## Overview
 This AutoHotkey script automates character movement in Fortnite's Lego Mode, allowing players to accumulate XP even when they can't actively play. It's particularly useful for those with limited gaming time who still want to progress in the game.
